@@ -7,9 +7,12 @@
 html {
   font-size: 16px;
   line-height: 1.5;
-  font-family: "Helvetice Neue", Helvetica, arial, sans-serif;
+  /* font-family: "Helvetice Neue", Helvetica, arial, sans-serif; */
+  font-family: "BPreplay", sans-serif;
   color: #111;
   padding: 24px 24px 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 /*
